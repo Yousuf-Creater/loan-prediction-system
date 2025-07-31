@@ -15,7 +15,7 @@ A Streamlit app that predicts whether a loan application will be approved based 
 ## Setup
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
-3. Run: `streamlit run app.py`
+3. Run: `streamlit run streamlit_app.py`
 
 ## Model
 Trained using RandomForestClassifier on Loan Prediction Dataset.
