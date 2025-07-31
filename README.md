@@ -19,7 +19,8 @@ A Streamlit app that predicts whether a loan application will be approved based 
 
 ## Model
 Trained using RandomForestClassifier on Loan Prediction Dataset.
-
+dataset link: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+Model have 91% accuracy on Training set and approx. 80% accuracy on validation set
 ---
 
 ✅ Internship Project | Built with ❤️ in Python
